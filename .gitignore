@@ -1,0 +1,7 @@
+*.csproj
+*.vsconfig
+FlappyBird/.vs/
+FlappyBird/Library/
+FlappyBird/Temp/
+FlappyBird/obj/
+FlappyBird/Logs/
